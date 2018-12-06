@@ -97,7 +97,7 @@ class: slide
 
 ## Main Sponsor
 
-### €20,000 | 1 available
+### €25,000 | 1 available
 
 The Main Sponsor position is reserved for a singular organization with an industry-leading reputation in open-source technology and data science. Our Main Sponsor will be uniquely visible before, during and after the event, on all marketing materials and social media.
 
@@ -118,7 +118,7 @@ class: slide
 
 ## Gold Sponsor
 
-### €7,000 | 3 available
+### €7,000 
 
 Our Gold Sponsors are organizations looking to take a lead position in Berlin's open-source and data science communities. Participation in our event offers you high visibility and a chance to communicate directly with our attendees.
 
@@ -137,7 +137,7 @@ class: slide
 
 ## Silver Sponsor
 
-### €3,000 | 7 available
+### €3,000 
 
 Silver sponsorship offers you visibility throughout our conference. The support of our Silver Sponsors is integral to making our conference a success. You will receive exposure as a key organization in our community and an important contributor to the event.
 
@@ -154,7 +154,7 @@ class: slide
 
 ## Partner Sponsor
 
-### €1,000 | 10 available
+### €1,000 
 
 Our partners make so much of what we do possible. Partnerships allow us to offer free and reduced-price tickets, and help to pay for diversity scholarships and mentoring sessions for first-time speakers.
 
