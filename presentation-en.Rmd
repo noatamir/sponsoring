@@ -236,6 +236,8 @@ classe: slide
 * Steve Cunningham, Data Analyst at ResearchGate
 * Jakob Graff, Data Science Team Lead at Babbel
 * Simon Dunne, Data Science Team Lead at Babbel
+* David Pardo, Data Scientist at Homebell
+* Vadim Voskresenskii, Research Assistant at Weizenbaum Institute for the Netowrked Society
 
 ---
 class: slidish
