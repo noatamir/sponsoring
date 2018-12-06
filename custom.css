@@ -3556,3 +3556,12 @@ a.list-group-item.active > .badge,
   left: 15px;
   right: 15px;
 }
+
+.section-slide h1 {
+  font-size: 60px;
+  padding-top: 40%;
+}
+
+.section-slide .remark-slide-number {
+  display: none;
+}
