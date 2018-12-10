@@ -228,7 +228,7 @@ map_data("world") %>%
 ---
 classe: slide 
 
-## PLACE YEAR 
+## Berlin 2019
 
 ### The Organising team
 
